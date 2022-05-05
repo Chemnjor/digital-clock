@@ -1,0 +1,14 @@
+body {
+  background: #F9EBC8;
+ 
+}
+.time {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translatex(50%) translateY(50%);
+  font-size: 40px;
+  border: 1px solid #0AA1DD;
+  padding:  0 6px 0 6px;
+  font-weight: bold;
+}
